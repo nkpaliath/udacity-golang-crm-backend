@@ -1,4 +1,4 @@
-module github.com/nkpalaith/crm-backend
+module github.com/nkpalaith/udacity-golang-crm-backend
 
 go 1.21.4
 

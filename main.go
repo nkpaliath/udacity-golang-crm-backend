@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/mux"
-	"github.com/nkpalaith/crm-backend/controller"
+	"github.com/nkpalaith/udacity-golang-crm-backend/controller"
 )
 
 func main() {

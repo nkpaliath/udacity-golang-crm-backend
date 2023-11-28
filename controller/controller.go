@@ -7,7 +7,7 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/nkpalaith/crm-backend/db"
+	"github.com/nkpalaith/udacity-golang-crm-backend/db"
 )
 
 func GetAllCustomers(w http.ResponseWriter, r *http.Request) {
